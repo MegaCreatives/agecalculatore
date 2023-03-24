@@ -25,5 +25,14 @@
         "package_name": "com.geekmindapps.fruitsveg",
         "app_type": "all",
         "extra": "Learn fruits, vegetables & dry fruits name in english for kids"
+    },
+    {
+        "id": "11",
+        "my_id": "16",
+        "app_name": "Birthday Greetings",
+        "app_icon": "http://geekmindapps.in/App_Manager/more_apps/appicons/birthday_greetings.png",
+        "package_name": "com.geekmindapps.birthdaygreetings",
+        "app_type": "all",
+        "extra": "Birthday sms, wishes & greetings"
     }
 ]
