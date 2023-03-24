@@ -2,8 +2,8 @@
     {
         "id": "3",
         "my_id": "22",
-        "app_name": "Bank Balance",
-        "app_icon": "http://geekmindapps.in/App_Manager/more_apps/appicons/bank_balance.png",
+        "app_name": "Free Fire",
+        "app_icon": "https://play-lh.googleusercontent.com/WWcssdzTZvx7Fc84lfMpVuyMXg83_PwrfpgSBd0IID_IuupsYVYJ34S9R2_5x57gHQ=s48-rw",
         "package_name": "com.geekmindapps.bankbalance",
         "app_type": "all",
         "extra": "Get your bank balance by missed call, IFSC code, interest rates"
@@ -11,7 +11,7 @@
     {
         "id": "4",
         "my_id": "23",
-        "app_name": "Document Manager",
+        "app_name": "Free Fire",
         "app_icon": "http://geekmindapps.in/App_Manager/more_apps/appicons/document_manager.png",
         "package_name": "com.geekmindapps.documentmanger",
         "app_type": "all",
